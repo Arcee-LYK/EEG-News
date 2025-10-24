@@ -1,2 +1,3 @@
 # EEG-News
-The code and data will come soon.
+Please email your application information to shunyang@sjtu.edu.cn.
+We will upload an application form later.
